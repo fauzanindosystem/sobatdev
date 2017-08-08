@@ -1,0 +1,18 @@
+body{
+
+}
+*{
+	box-sizing: border-box;
+}
+.navbar{
+	background-color: #627899;
+	border-radius: 0;
+	border:0;
+	margin-bottom: 0;
+}
+#menu > ul > li > a{
+	color:white;
+}
+.header > .square1 > img{
+	display: none;
+}
